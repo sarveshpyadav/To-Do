@@ -1,4 +1,4 @@
-# ToDo - A Simple ToDo App
+# A ToDo App
 
 ## Description :
 - ToDo is a simple and intuitive web application developed using HTML, CSS and JavaSript.
